@@ -1,6 +1,6 @@
 {
   "name": "Bana",
-  "tagline": "bana markdown test",
-  "body": "### Welcome to GitHub Pages.\r\n [link to Google!](http://google.com)\r\n\r\n\r\n# This is an <h1> tag\r\n## This is an <h2> tag\r\n\r\neee\r\n",
+  "tagline": "bana markdown  ",
+  "body": "開頭\r\n＝＝＝＝\r\n\r\n\r\n[Google](http://google.com/ \"Google\")\r\n[link to Google!](http://google.com)\r\n\r\n寫一些\r\n\r\n1. wwww:\r\n*協的*\r\n**粗體**\r\n\r\n副飆\r\n-------\r\nThis is a regular paragraph.\r\n\r\n\r\nThis is another regular paragraph.\r\n\r\nwho | os | Spicy      | Owes\r\n------- | ---------------- | ---------- |---------:\r\n洧 | linux | medium | $11\r\n逸  | ios        | mild       | $14\r\n振   | linux | HOT      | $5\r\n秋  | win  | dddd  | ww12w4 ˊ\r\n  廷  |   linux| sss  | \r\n\r\n>ssss\r\n>> 練習\r\nsss\r\n>sss\r\n1. sss\r\n\r\n1.  Bird\r\n2.  McHale\r\n3.  Parish\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
